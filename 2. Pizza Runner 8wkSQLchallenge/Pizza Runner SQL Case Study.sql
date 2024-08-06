@@ -387,7 +387,7 @@ FROM CTE_example
 INSERT INTO pizza_names (pizza_id, pizza_name)
 VALUES (3, 'Supreme');
 
-# Assuming that the Supreme consists of all toppings, retrieve data of all toppings
+# Assume that the Supreme consists of all toppings, retrieve data of all toppings
 SELECT GROUP_CONCAT(topping_id ORDER BY topping_id) AS all_toppings
 FROM pizza_toppings;
 
