@@ -1,3 +1,4 @@
+-- Link to Case Study https://8weeksqlchallenge.com/case-study-1/
 DROP DATABASE IF EXISTS `dannys_diner`;
 CREATE DATABASE `dannys_diner`;
 USE `dannys_diner`;
