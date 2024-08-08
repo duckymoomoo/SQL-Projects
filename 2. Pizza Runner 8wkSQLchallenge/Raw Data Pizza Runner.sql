@@ -1,3 +1,4 @@
+-- Link to Case Study https://8weeksqlchallenge.com/case-study-2/
 CREATE SCHEMA pizza_runner;
 
 DROP TABLE IF EXISTS runners;
