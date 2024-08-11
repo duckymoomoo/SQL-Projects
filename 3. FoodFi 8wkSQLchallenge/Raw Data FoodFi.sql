@@ -1,3 +1,4 @@
+-- Link to case study https://8weeksqlchallenge.com/case-study-3/
 CREATE TABLE plans (
   plan_id INTEGER,
   plan_name VARCHAR(13),
